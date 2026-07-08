@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/hongseokyun/99_HSY/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
+| [0707-design-linked-list](https://github.com/hongseokyun/99_HSY/tree/master/0707-design-linked-list) |
 ## Randomized
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hongseokyun/99_HSY/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/hongseokyun/99_HSY/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
