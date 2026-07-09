@@ -1,18 +1,17 @@
+from collections import Counter
+
 class Solution(object):
     def topKFrequent(self, nums, k):
-        dic = dict()
-        # all components count
-        for i in nums[:] :
-            if i in dic.keys() :
-                dic[i] += 1
-            else :
-                dic[i] = 1
-        
-        # sort based-on counts
-        sort_dic = sorted(dic.items(), key=lambda x: x[1], reverse=True)
-        arr = sort_dic[:k]
+        count = Counter(nums)
+        buckets = [[] for _ in range(len(nums) + 1)]
+        for num, freq in count.items():
+            buckets[freq].append(num)
+
         result = []
-        for i in arr :
-            result.append(i[0])
+        for freq in range(len(buckets) - 1, 0, -1):
+            for num in buckets[freq]:
+                result.append(num)
+                if len(result) == k:
+                    return result
         return result
 
