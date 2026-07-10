@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
+| [0739-daily-temperatures](https://github.com/hongseokyun/99_HSY/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hongseokyun/99_HSY/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/hongseokyun/99_HSY/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/hongseokyun/99_HSY/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
