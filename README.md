@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/hongseokyun/99_HSY/tree/master/0739-daily-temperatures) |
@@ -70,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hongseokyun/99_HSY/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
