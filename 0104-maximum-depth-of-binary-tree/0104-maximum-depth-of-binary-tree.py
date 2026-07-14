@@ -6,13 +6,6 @@
 #         self.right = right
 class Solution(object):
     def maxDepth(self, root):
-        def dfs(r, arr):
-            if r is None:
-                return len(arr)
-            arr.append(r.val)
-            left_cnt = dfs(r.left, arr)
-            right_cnt = dfs(r.right, arr)
-            arr.pop()
-            return max(left_cnt, right_cnt)
- 
-        return dfs(root, [])
+        if root is None:
+            return 0
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
