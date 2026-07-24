@@ -1,50 +1,36 @@
-from collections import deque
-from collections import defaultdict
+from collections import deque, defaultdict
 
 class Solution(object):
     def numBusesToDestination(self, routes, source, target):
-        buses = defaultdict(set)
-        start = deque()
-        
-        if source == target :
+        if source == target:
             return 0
 
-        for bus, route in enumerate(routes) :
-            for rot in route :
-                buses[bus+1].add(rot)
-                if rot == source :
-                    start.append(bus+1)
+        stop_to_buses = defaultdict(set)
+        for bus, route in enumerate(routes):
+            for stop in route:
+                stop_to_buses[stop].add(bus)
 
-        if not start :
-            return -1
-        
-        cnt = 0
-        visit = [False for _ in range(10**5)]
-        next_start = deque()
-        while start :
-            bus = start.popleft()
-            route = buses[bus]
-            if target in route :
-                return cnt+1 
+        visited_bus = set()
+        visited_stop = set([source])
+        queue = deque()
 
-            while route :
-                rot = route.pop()
-                if not visit[rot-1] :
-                    visit[rot-1] = True
-                    for bus_key in buses :
-                        if rot in buses[bus_key] :
-                            if bus_key not in next_start :
-                                next_start.append(bus_key)
+        for bus in stop_to_buses[source]:
+            visited_bus.add(bus)
+            queue.append(bus)
 
-            if not start :
-                if not next_start :
-                    return -1
-                start = next_start
-                next_start = deque()
-                cnt += 1
+        cnt = 1
+        while queue:
+            for _ in range(len(queue)):
+                bus = queue.popleft()
+                for stop in routes[bus]:
+                    if stop == target:
+                        return cnt
+                    if stop not in visited_stop:
+                        visited_stop.add(stop)
+                        for next_bus in stop_to_buses[stop]:
+                            if next_bus not in visited_bus:
+                                visited_bus.add(next_bus)
+                                queue.append(next_bus)
+            cnt += 1
 
-
-        
-
-
-        
+        return -1
