@@ -37,10 +37,11 @@ class Solution(object):
                                 next_start.append(bus_key)
 
             if not start :
+                if not next_start :
+                    return -1
                 start = next_start
                 next_start = deque()
                 cnt += 1
-        return -1
 
 
         
