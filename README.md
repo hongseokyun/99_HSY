@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hongseokyun/99_HSY/tree/master/0417-pacific-atlantic-water-flow) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/hongseokyun/99_HSY/tree/master/0126-word-ladder-ii) |
 | [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hongseokyun/99_HSY/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hongseokyun/99_HSY/tree/master/0417-pacific-atlantic-water-flow) |
 | [0815-bus-routes](https://github.com/hongseokyun/99_HSY/tree/master/0815-bus-routes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hongseokyun/99_HSY/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
 | [0834-sum-of-distances-in-tree](https://github.com/hongseokyun/99_HSY/tree/master/0834-sum-of-distances-in-tree) |
 ## Graph Theory
 |  |
