@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
+| [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
 | [0834-sum-of-distances-in-tree](https://github.com/hongseokyun/99_HSY/tree/master/0834-sum-of-distances-in-tree) |
 ## Graph Theory
