@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
+| [1137-n-th-tribonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/1137-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -145,8 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
 | [0834-sum-of-distances-in-tree](https://github.com/hongseokyun/99_HSY/tree/master/0834-sum-of-distances-in-tree) |
+| [1137-n-th-tribonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/1137-n-th-tribonacci-number) |
 ## Graph Theory
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/hongseokyun/99_HSY/tree/master/0834-sum-of-distances-in-tree) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
