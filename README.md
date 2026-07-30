@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hongseokyun/99_HSY/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/hongseokyun/99_HSY/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hongseokyun/99_HSY/tree/master/0010-regular-expression-matching) |
 | [0126-word-ladder-ii](https://github.com/hongseokyun/99_HSY/tree/master/0126-word-ladder-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hongseokyun/99_HSY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hongseokyun/99_HSY/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/hongseokyun/99_HSY/tree/master/0198-house-robber) |
