@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/hongseokyun/99_HSY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/hongseokyun/99_HSY/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0815-bus-routes](https://github.com/hongseokyun/99_HSY/tree/master/0815-bus-routes) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hongseokyun/99_HSY/tree/master/0010-regular-expression-matching) |
 | [0126-word-ladder-ii](https://github.com/hongseokyun/99_HSY/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hongseokyun/99_HSY/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/hongseokyun/99_HSY/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/hongseokyun/99_HSY/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
@@ -177,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/hongseokyun/99_HSY/tree/master/0338-counting-bits) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
