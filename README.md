@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hongseokyun/99_HSY/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/hongseokyun/99_HSY/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/hongseokyun/99_HSY/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/0509-fibonacci-number) |
 | [0834-sum-of-distances-in-tree](https://github.com/hongseokyun/99_HSY/tree/master/0834-sum-of-distances-in-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/hongseokyun/99_HSY/tree/master/1137-n-th-tribonacci-number) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hongseokyun/99_HSY/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/hongseokyun/99_HSY/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
