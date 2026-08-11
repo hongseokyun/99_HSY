@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hongseokyun/99_HSY/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hongseokyun/99_HSY/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/hongseokyun/99_HSY/tree/master/0739-daily-temperatures) |
 | [0815-bus-routes](https://github.com/hongseokyun/99_HSY/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/hongseokyun/99_HSY/tree/master/0994-rotting-oranges) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hongseokyun/99_HSY/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -186,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
