@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hongseokyun/99_HSY/tree/master/0739-daily-temperatures) |
 | [0815-bus-routes](https://github.com/hongseokyun/99_HSY/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/hongseokyun/99_HSY/tree/master/0994-rotting-oranges) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/hongseokyun/99_HSY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hongseokyun/99_HSY/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hongseokyun/99_HSY/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/hongseokyun/99_HSY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/hongseokyun/99_HSY/tree/master/0763-partition-labels) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/hongseokyun/99_HSY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Quicksort
 |  |
 | ------- |
