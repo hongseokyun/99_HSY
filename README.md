@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hongseokyun/99_HSY/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hongseokyun/99_HSY/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/hongseokyun/99_HSY/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hongseokyun/99_HSY/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hongseokyun/99_HSY/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/hongseokyun/99_HSY/tree/master/0763-partition-labels) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hongseokyun/99_HSY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
