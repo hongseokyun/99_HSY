@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hongseokyun/99_HSY/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/hongseokyun/99_HSY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hongseokyun/99_HSY/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hongseokyun/99_HSY/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/hongseokyun/99_HSY/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
