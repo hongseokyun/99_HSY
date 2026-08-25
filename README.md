@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hongseokyun/99_HSY/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/hongseokyun/99_HSY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hongseokyun/99_HSY/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/hongseokyun/99_HSY/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hongseokyun/99_HSY/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/hongseokyun/99_HSY/tree/master/0126-word-ladder-ii) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hongseokyun/99_HSY/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/hongseokyun/99_HSY/tree/master/0338-counting-bits) |
 ## Trie
 |  |
