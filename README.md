@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hongseokyun/99_HSY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hongseokyun/99_HSY/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/hongseokyun/99_HSY/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hongseokyun/99_HSY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/hongseokyun/99_HSY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hongseokyun/99_HSY/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/hongseokyun/99_HSY/tree/master/0312-burst-balloons) |
@@ -218,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hongseokyun/99_HSY/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hongseokyun/99_HSY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
